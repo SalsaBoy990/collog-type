@@ -1,0 +1,28 @@
+{
+  "name": "collog-type",
+  "version": "1.0.0",
+  "description": "Function that logs its arguments to the console (on Node.js) in different colors based on their data type",
+  "main": "collog.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalsaBoy990/collog-type.git"
+  },
+  "keywords": [
+    "log",
+    "logs",
+    "color",
+    "type"
+  ],
+  "author": "András Gulácsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalsaBoy990/collog-type/issues"
+  },
+  "homepage": "https://github.com/SalsaBoy990/collog-type#readme"
+}
