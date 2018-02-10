@@ -1,6 +1,6 @@
 {
   "name": "collog-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function that logs its arguments to the console (on Node.js) in different colors based on their data type",
   "main": "collog.js",
   "directories": {

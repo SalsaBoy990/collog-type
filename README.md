@@ -46,9 +46,13 @@ Navigate to `node_modules\collog-type` in your project folder, and run
 
     npm test
 
+## Change log
+
+10/02/2018: The package was republished on my new npm account
 
 ## Release Notes
 
+* 1.0.1 Republished version
 * 1.0.0 Initial release
 
 ## License

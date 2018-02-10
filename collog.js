@@ -9,7 +9,7 @@ const colorer = require('./colorer')
    Objects: green,
    Functions: purple,
 */
-function collog () {
+module.exports = function () {
   if (arguments.length === 0) {
     console.log('Nothing to print...')
   }
@@ -23,5 +23,3 @@ function collog () {
     colorer(elem)
   })
 }
-
-module.exports = collog
